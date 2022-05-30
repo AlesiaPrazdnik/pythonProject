@@ -392,4 +392,4 @@ import random
 #         print(key,value)
 # print("Аукцион закончен!")
 
-ghjjkk
+bnbnbn
